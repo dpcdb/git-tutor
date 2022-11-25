@@ -1,5 +1,5 @@
 FROM debian 
-    RUN apt update 
+    RUN sudo apt-get update 
     
-    EXPOSE 83
+   
     
