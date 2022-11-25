@@ -1,5 +1,5 @@
 FROM debian 
-    RUN sudo apt-get update 
+    RUN apt-get update 
     
    
     
